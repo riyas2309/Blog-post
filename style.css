@@ -72,3 +72,10 @@ body {
   font-size: medium;
   font-weight: 800;
 }
+footer {
+  margin: 5vh;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
